@@ -1,3 +1,3 @@
-# virusdb
+# VirusDB
 
 A virus database
